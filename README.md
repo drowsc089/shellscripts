@@ -1,2 +1,2 @@
-# shellscripts
+#scripts
 for running daily  works
