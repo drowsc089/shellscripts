@@ -1,6 +1,3 @@
-# shellscripts
-for running daily mysql works
-
 
 mysql_databasesbak.sh is for backup db one by one which list on the "dbname.txt"
 
