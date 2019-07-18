@@ -1,4 +1,3 @@
-
 mysql_databasesbak.sh is for backup db one by one which list on the "dbname.txt"
 
 mysql_fulldb_bak.sh is for backup the whole database
