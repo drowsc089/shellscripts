@@ -1,6 +1,6 @@
 #!/bin/bash
 #check whether the aliyun-mdb mysql all databases backup files decompress normally
-#WARNING!!: Please add the local ssh key for none-password login on aliyun-web3 by user of tomcat
+#WARNING!!: Please add the ssh key of user named tomcat for auto login to destination host
 #powered by dc at 2017-05-02
 #mysql_fulldb_bakcheck.sh
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 #backup local database per day
-#WARNING!!: Please add the local ssh key for none-password ssh login to host aliyun-sdb and aliyun-web3
+#WARNING!!: Please add the local ssh key for auto login to destination host
 #powered by dc at 2017-02-28,edited at 2017-03-28
 #NAME: mysql_fulldb_bak
 
