@@ -1,9 +1,9 @@
 #!/bin/bash
-# Name:mysql_databasesbak.sh
-# This is a ShellScript For Auto DB Backup one by one and Delete old Backup
-# WARNING!!:Please add the dbname to /data/scripts/databases_backupdaily/dbname.txt first if you want to backup a new database
-# WARNING!!:Please add the local ssh key for auto login to destination host
-#edited by dc at 2017-04-15
+#This is a ShellScript For Auto DB Backup one by one and Delete old Backup
+#WARNING!!:Please add the dbname to /data/scripts/databases_backupdaily/dbname.txt first if you want to backup a new database
+#WARNING!!:Please add the local ssh key for auto login to destination host
+#author:dc
+#Name:mysql_databasesbak.sh
 
 
 HOST=localhost

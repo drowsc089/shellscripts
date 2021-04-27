@@ -2,8 +2,8 @@
 #check whether the aliyun-mdb mysql single databases backup files decompress normally and send a report to aliyun-web3
 #WARNING!!: Please add the ssh key of user named tomcat for auto login to destination host. 
 #WARNING!!: Please notice that you should add all the database name to /data/scripts/databases_backupdaily/dbname.txt if you want to check
-#powered by dc at 2017-05-02
-#NAME:mysql_dbs_bakcheck.sh
+#author:dc
+#Name:mysql_dbs_bakcheck.sh
 
 
 BAK_TIME=`date +%Y%m%d`

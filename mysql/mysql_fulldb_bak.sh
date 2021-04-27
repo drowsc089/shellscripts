@@ -1,7 +1,7 @@
 #!/bin/bash
 #backup local database per day
 #WARNING!!: Please add the local ssh key for auto login to destination host
-#powered by dc at 2017-02-28,edited at 2017-03-28
+#author:dc
 #NAME: mysql_fulldb_bak
 
 BACKUP_DIR=/data/backup/alldb_backup_temp/

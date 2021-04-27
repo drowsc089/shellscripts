@@ -1,6 +1,6 @@
 #!/bin/bash
 #scp the app jar packet from remote to local directory then deploy
-#powered by dc at 2018-10-24
+#author:dc
 
 
 servicename=$1

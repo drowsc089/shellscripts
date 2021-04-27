@@ -1,8 +1,8 @@
 #!/bin/bash
 #check whether the aliyun-mdb mysql all databases backup files decompress normally
 #WARNING!!: Please add the ssh key of user named tomcat for auto login to destination host
-#powered by dc at 2017-05-02
-#mysql_fulldb_bakcheck.sh
+#author:dc
+#Name:mysql_fulldb_bakcheck.sh
 
 
 SH_HOME=/data/script/mysqlmdballbak_check/

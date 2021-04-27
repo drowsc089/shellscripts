@@ -1,6 +1,7 @@
 #!/bin/bash
 #deploy the jar service
-#powered by dc at 2018-12-01
+#author:dc
+#Name:deploy-jar-service.sh
 
 SERVICE=$1
 

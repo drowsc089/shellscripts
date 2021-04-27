@@ -1,7 +1,7 @@
 #!/bin/bash
 #backup wiki's files including application directory(/opt/atlassian /var/atlassian) and database (Mysql)
-#powered by dc at 2017-02-28,edited at 2018-06-05
-#wiki_backup.sh
+#author:dc
+#Name:wiki_backup.sh
 
 BACKUP_DIR=/data/backup/wiki/
 SH_DIR=/data/scripts/wikibackup/

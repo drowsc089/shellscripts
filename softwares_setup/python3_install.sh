@@ -1,7 +1,7 @@
 #!/bin/bash
 #for install python3 with sourcecode on server automaticly
-#powered by dc at 2017-05-25
-#python3_install.sh
+#author:dc
+#Name:python3_install.sh
 
 
 SH_HOME="/data/scripts/python3_install/"
